@@ -1,3 +1,7 @@
+/*
+ *  Design Pattern - Factory Method 工廠模式
+ *  Copyright (c) 2023 Ricky v1.0
+ */
 
 #include <iostream>
 using namespace std;
