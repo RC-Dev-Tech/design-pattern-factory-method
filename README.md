@@ -54,7 +54,6 @@
 ## 參考資料
 * [Wiki - Factory Method Pattern](https://en.wikipedia.org/wiki/Factory_method_pattern) <br>
 * [Refactoring.Guru - Factory Method](https://refactoring.guru/design-patterns/factory-method) <br>
-* [Lin.Ziyou - 工廠方法模式 Factory Method Pattern](https://linziyou.info/2020/09/30/%e5%b7%a5%e5%bb%a0%e6%a8%a1%e5%bc%8f-factory-pattern/) 
 
 ---
 <br>
