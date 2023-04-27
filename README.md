@@ -10,6 +10,7 @@
 * [使用時機](#使用時機)
 * [URL結構圖](#url結構圖)
 * [實作成員](#實作成員)
+* [實作範例](#實作範例)
 * [參考資料](#參考資料)
 <!--te-->
 
@@ -47,6 +48,12 @@
     Factory Method預設的內容是傳回預設的ConcreteProduct物件.
 * ConcreteCreator
   * 覆寫Factory Method以傳回ConcreteProduct的物件個體.
+
+---
+<br>
+
+## 實作範例:
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-factory-method/blob/main/C%2B%2B/main.cpp) - Factory Method Pattern (C++).
 
 ---
 <br>
