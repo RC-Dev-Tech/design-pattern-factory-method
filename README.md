@@ -33,7 +33,7 @@
 <br>
 
 ## URL結構圖
-![](https://drive.google.com/uc?id=1o-f3dh2kagPaKP5n_boeep3gdwAS2cQx)
+![](https://drive.google.com/uc?id=1cKeKLErG4dnPn97iVP1t4krt6cnJ3mdT)
 > 圖片來源：[Refactoring.Guru - Factory Method](https://refactoring.guru/design-patterns/factory-method)
 
 ---
