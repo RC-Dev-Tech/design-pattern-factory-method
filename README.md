@@ -33,7 +33,8 @@
 <br>
 
 ## URL結構圖
-![](https://drive.google.com/uc?id=1cKeKLErG4dnPn97iVP1t4krt6cnJ3mdT)
+![](https://drive.google.com/uc?id=1o-f3dh2kagPaKP5n_boeep3gdwAS2cQx)
+> 圖片來源：[Refactoring.Guru - Factory Method](https://refactoring.guru/design-patterns/factory-method)
 
 ---
 <br>
@@ -53,7 +54,7 @@
 <br>
 
 ## 實作範例:
-- [Example](https://github.com/RC-Dev-Tech/design-pattern-factory-method/blob/main/C%2B%2B/main.cpp) - Factory Method Pattern (C++).
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-factory-method/blob/main/C%2B%2B/main.cpp) - Factory Method Pattern (C++)
 
 ---
 <br>
